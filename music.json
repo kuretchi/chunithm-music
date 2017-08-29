@@ -1,0 +1,8318 @@
+[
+    {
+        "Name": "前前前世",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 11.9
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 1408
+        }
+    },
+    {
+        "Name": "Paradisus-Paradoxum",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.4
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 2626
+        }
+    },
+    {
+        "Name": "ようこそジャパリパークへ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.1
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": 736,
+            "Expert": 1275,
+            "Master": 1993
+        }
+    },
+    {
+        "Name": "MEMORIA",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 903
+        }
+    },
+    {
+        "Name": "MIRU key way",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 11.6
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 1234
+        }
+    },
+    {
+        "Name": "ハレ晴レユカイ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 1488
+        }
+    },
+    {
+        "Name": "My Soul,Your Beats!",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "4",
+            "Expert": "9",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 426,
+            "Advanced": 781,
+            "Expert": 1020,
+            "Master": 1535
+        }
+    },
+    {
+        "Name": "Thousand Enemies",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 237,
+            "Advanced": 617,
+            "Expert": 791,
+            "Master": 1410
+        }
+    },
+    {
+        "Name": "夢想歌",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 346,
+            "Advanced": 652,
+            "Expert": 881,
+            "Master": 1484
+        }
+    },
+    {
+        "Name": "Face of Fact",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 297,
+            "Advanced": 562,
+            "Expert": 958,
+            "Master": 1297
+        }
+    },
+    {
+        "Name": "true my heart -Lovable mix-",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "4",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 310,
+            "Advanced": 551,
+            "Expert": 1040,
+            "Master": 1747
+        }
+    },
+    {
+        "Name": "クローバー♣かくめーしょん",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 278,
+            "Advanced": 419,
+            "Expert": 715,
+            "Master": 1175
+        }
+    },
+    {
+        "Name": "ぐーちょきパレード",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 318,
+            "Advanced": 675,
+            "Expert": 995,
+            "Master": 1815
+        }
+    },
+    {
+        "Name": "だんご大家族",
+        "Keywords": [],
+        "Level": {
+            "Easy": "1",
+            "Advanced": "4",
+            "Expert": "7+",
+            "Master": "10"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 256,
+            "Advanced": 393,
+            "Expert": 768,
+            "Master": 1073
+        }
+    },
+    {
+        "Name": "ラブリー☆えんじぇる!!",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 480,
+            "Advanced": 734,
+            "Expert": 1158,
+            "Master": 1861
+        }
+    },
+    {
+        "Name": "Star☆Glitter",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 371,
+            "Advanced": 705,
+            "Expert": 1058,
+            "Master": 1405
+        }
+    },
+    {
+        "Name": "H-A-J-I-M-A-R-I-U-T-A-!!",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "10+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 271,
+            "Advanced": 480,
+            "Expert": 901,
+            "Master": 1213
+        }
+    },
+    {
+        "Name": "若い力 -SEGA HARD GIRLS MIX-",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "8",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 271,
+            "Advanced": 637,
+            "Expert": 788,
+            "Master": 1670
+        }
+    },
+    {
+        "Name": "Jumping!!",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 236,
+            "Advanced": 410,
+            "Expert": 647,
+            "Master": 979
+        }
+    },
+    {
+        "Name": "極上スマイル",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "10+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 380,
+            "Advanced": 604,
+            "Expert": 967,
+            "Master": 1318
+        }
+    },
+    {
+        "Name": "FEEL×ALIVE",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 330,
+            "Advanced": 647,
+            "Expert": 1000,
+            "Master": 1684
+        }
+    },
+    {
+        "Name": "ぶぉん！ぶぉん！らいど・おん！",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.9
+        },
+        "Notes": {
+            "Easy": 359,
+            "Advanced": 786,
+            "Expert": 1045,
+            "Master": 1789
+        }
+    },
+    {
+        "Name": "Daydream café",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 266,
+            "Advanced": 534,
+            "Expert": 641,
+            "Master": 1229
+        }
+    },
+    {
+        "Name": "ノーポイッ!",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 284,
+            "Advanced": 597,
+            "Expert": 972,
+            "Master": 1572
+        }
+    },
+    {
+        "Name": "ムーンライト伝説",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 341,
+            "Advanced": 509,
+            "Expert": 824,
+            "Master": 1499
+        }
+    },
+    {
+        "Name": "Redo",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.4
+        },
+        "Notes": {
+            "Easy": 637,
+            "Advanced": 798,
+            "Expert": 1264,
+            "Master": 1799
+        }
+    },
+    {
+        "Name": "MY LIBERATION",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 470,
+            "Advanced": 845,
+            "Expert": 1035,
+            "Master": 2783
+        }
+    },
+    {
+        "Name": "Be My Friend",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 322,
+            "Advanced": 517,
+            "Expert": 887,
+            "Master": 1253
+        }
+    },
+    {
+        "Name": "僕らの翼",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 264,
+            "Advanced": 527,
+            "Expert": 690,
+            "Master": 964
+        }
+    },
+    {
+        "Name": "ぶいえす!!らいばる!!",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "8",
+            "Expert": "11",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11,
+            "Master": 13.2
+        },
+        "Notes": {
+            "Easy": 480,
+            "Advanced": 755,
+            "Expert": 1202,
+            "Master": 1963
+        }
+    },
+    {
+        "Name": "かくしん的☆めたまるふぉ～ぜっ!",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.1
+        },
+        "Notes": {
+            "Easy": 325,
+            "Advanced": 592,
+            "Expert": 840,
+            "Master": 1566
+        }
+    },
+    {
+        "Name": "ひだまりデイズ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "4",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 182,
+            "Advanced": 340,
+            "Expert": 576,
+            "Master": 959
+        }
+    },
+    {
+        "Name": "This game",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 271,
+            "Advanced": 634,
+            "Expert": 970,
+            "Master": 1395
+        }
+    },
+    {
+        "Name": "オラシオン",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 359,
+            "Advanced": 741,
+            "Expert": 1284,
+            "Master": 1538
+        }
+    },
+    {
+        "Name": "鳥の詩",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 329,
+            "Advanced": 725,
+            "Expert": 919,
+            "Master": 1522
+        }
+    },
+    {
+        "Name": "夏影",
+        "Keywords": [],
+        "Level": {
+            "Easy": "1",
+            "Advanced": "4",
+            "Expert": "8",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.2
+        },
+        "Notes": {
+            "Easy": 272,
+            "Advanced": 583,
+            "Expert": 789,
+            "Master": 1352
+        }
+    },
+    {
+        "Name": "secret base ～君がくれたもの～ (10 years after Ver.)",
+        "Keywords": [],
+        "Level": {
+            "Easy": "1",
+            "Advanced": "4",
+            "Expert": "8+",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 288,
+            "Advanced": 613,
+            "Expert": 811,
+            "Master": 1332
+        }
+    },
+    {
+        "Name": "フレンズ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 332,
+            "Advanced": 757,
+            "Expert": 1111,
+            "Master": 1422
+        }
+    },
+    {
+        "Name": "夏祭り",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "4",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 242,
+            "Advanced": 425,
+            "Expert": 743,
+            "Master": 1000
+        }
+    },
+    {
+        "Name": "Rising Hope",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 354,
+            "Advanced": 597,
+            "Expert": 838,
+            "Master": 1288
+        }
+    },
+    {
+        "Name": "fake!fake!",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 322,
+            "Advanced": 611,
+            "Expert": 964,
+            "Master": 1444
+        }
+    },
+    {
+        "Name": "WHITE ALBUM Live at Campus Fes",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "4",
+            "Expert": "7",
+            "Master": "10"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 324,
+            "Advanced": 563,
+            "Expert": 1068,
+            "Master": 1129
+        }
+    },
+    {
+        "Name": "届かない恋 '13",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 298,
+            "Advanced": 545,
+            "Expert": 961,
+            "Master": 1156
+        }
+    },
+    {
+        "Name": "Heart To Heart",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 337,
+            "Advanced": 795,
+            "Expert": 917,
+            "Master": 1184
+        }
+    },
+    {
+        "Name": "Last regrets",
+        "Keywords": [],
+        "Level": {
+            "Easy": "1",
+            "Advanced": "4",
+            "Expert": "7+",
+            "Master": "10"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 349,
+            "Advanced": 908,
+            "Expert": 1276,
+            "Master": 1837
+        }
+    },
+    {
+        "Name": "Little Busters! ～TV animation ver.～",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 313,
+            "Advanced": 525,
+            "Expert": 933,
+            "Master": 1154
+        }
+    },
+    {
+        "Name": "激情！ミルキィ大作戦",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 489,
+            "Advanced": 727,
+            "Expert": 983,
+            "Master": 1299
+        }
+    },
+    {
+        "Name": "青春はNon-Stop！",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 366,
+            "Advanced": 758,
+            "Expert": 1148,
+            "Master": 1783
+        }
+    },
+    {
+        "Name": "Falling Roses",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 256,
+            "Advanced": 552,
+            "Expert": 765,
+            "Master": 1302
+        }
+    },
+    {
+        "Name": "君色シグナル",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 231,
+            "Advanced": 357,
+            "Expert": 680,
+            "Master": 882
+        }
+    },
+    {
+        "Name": "カラフル。",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "4",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 358,
+            "Advanced": 671,
+            "Expert": 846,
+            "Master": 1516
+        }
+    },
+    {
+        "Name": "回レ！雪月花",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 357,
+            "Advanced": 551,
+            "Expert": 987,
+            "Master": 1484
+        }
+    },
+    {
+        "Name": "楽園の翼",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "6",
+            "Expert": "8+",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 340,
+            "Advanced": 713,
+            "Expert": 976,
+            "Master": 1298
+        }
+    },
+    {
+        "Name": "oath sign",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 331,
+            "Advanced": 596,
+            "Expert": 802,
+            "Master": 1313
+        }
+    },
+    {
+        "Name": "ファッとして桃源郷",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.5
+        },
+        "Notes": {
+            "Easy": 392,
+            "Advanced": 660,
+            "Expert": 968,
+            "Master": 1774
+        }
+    },
+    {
+        "Name": "シュガーソングとビターステップ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 295,
+            "Advanced": 564,
+            "Expert": 868,
+            "Master": 1330
+        }
+    },
+    {
+        "Name": "絶世スターゲイト",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 355,
+            "Advanced": 718,
+            "Expert": 1013,
+            "Master": 1519
+        }
+    },
+    {
+        "Name": "ジングルベル",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.3
+        },
+        "Notes": {
+            "Easy": 257,
+            "Advanced": 603,
+            "Expert": 906,
+            "Master": 1799
+        }
+    },
+    {
+        "Name": "SAVIOR OF SONG",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.8
+        },
+        "Notes": {
+            "Easy": 418,
+            "Advanced": 760,
+            "Expert": 1204,
+            "Master": 1826
+        }
+    },
+    {
+        "Name": "ブルー・フィールド",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "10+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 350,
+            "Advanced": 719,
+            "Expert": 1276,
+            "Master": 1251
+        }
+    },
+    {
+        "Name": "Hacking to the Gate",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 386,
+            "Advanced": 703,
+            "Expert": 1084,
+            "Master": 1686
+        }
+    },
+    {
+        "Name": "スカイクラッドの観測者",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 402,
+            "Advanced": 780,
+            "Expert": 1339,
+            "Master": 1865
+        }
+    },
+    {
+        "Name": "コネクト",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "7",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 262,
+            "Advanced": 444,
+            "Expert": 646,
+            "Master": 1068
+        }
+    },
+    {
+        "Name": "Magia",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 341,
+            "Advanced": 683,
+            "Expert": 1137,
+            "Master": 1387
+        }
+    },
+    {
+        "Name": "君の知らない物語",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "7+",
+            "Master": "10"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 280,
+            "Advanced": 568,
+            "Expert": 808,
+            "Master": 890
+        }
+    },
+    {
+        "Name": "staple stable",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 263,
+            "Advanced": 585,
+            "Expert": 1016,
+            "Master": 1370
+        }
+    },
+    {
+        "Name": "紅蓮の弓矢",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "10"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 258,
+            "Advanced": 484,
+            "Expert": 763,
+            "Master": 790
+        }
+    },
+    {
+        "Name": "STAY AWAY",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "8",
+            "Master": "9+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 306,
+            "Advanced": 507,
+            "Expert": 652,
+            "Master": 839
+        }
+    },
+    {
+        "Name": "睡蓮花",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "7",
+            "Master": "10"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 375,
+            "Advanced": 596,
+            "Expert": 810,
+            "Master": 1152
+        }
+    },
+    {
+        "Name": "ブルーバード",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "10"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 349,
+            "Advanced": 627,
+            "Expert": 1166,
+            "Master": 1138
+        }
+    },
+    {
+        "Name": "crossing field",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "7",
+            "Master": "10+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 230,
+            "Advanced": 397,
+            "Expert": 568,
+            "Master": 803
+        }
+    },
+    {
+        "Name": "魂のルフラン",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "7+",
+            "Master": "9"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 248,
+            "Advanced": 495,
+            "Expert": 902,
+            "Master": 950
+        }
+    },
+    {
+        "Name": "V.I.P",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "8+",
+            "Master": "10"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 352,
+            "Advanced": 620,
+            "Expert": 973,
+            "Master": 1080
+        }
+    },
+    {
+        "Name": "only my railgun",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 226,
+            "Advanced": 546,
+            "Expert": 933,
+            "Master": 1110
+        }
+    },
+    {
+        "Name": "Emotions",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "10+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 339,
+            "Advanced": 808,
+            "Expert": 1284,
+            "Master": 1435
+        }
+    },
+    {
+        "Name": "マジLOVE1000%",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 266,
+            "Advanced": 515,
+            "Expert": 719,
+            "Master": 1000
+        }
+    },
+    {
+        "Name": "太陽曰く燃えよカオス",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "4",
+            "Expert": "8",
+            "Master": "10+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 358,
+            "Advanced": 591,
+            "Expert": 814,
+            "Master": 1160
+        }
+    },
+    {
+        "Name": "Scatman (Ski Ba Bop Ba Dop Bop)",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 285,
+            "Advanced": 452,
+            "Expert": 800,
+            "Master": 1052
+        }
+    },
+    {
+        "Name": "砂の惑星 feat. HATSUNE MIKU",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.3
+        },
+        "Notes": {
+            "Easy": 383,
+            "Advanced": 572,
+            "Expert": null,
+            "Master": 1415
+        }
+    },
+    {
+        "Name": "アンハッピーリフレイン",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "9+",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 373,
+            "Advanced": 586,
+            "Expert": 966,
+            "Master": 1836
+        }
+    },
+    {
+        "Name": "すきなことだけでいいです",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 327,
+            "Advanced": 725,
+            "Expert": 1029,
+            "Master": 1677
+        }
+    },
+    {
+        "Name": "デリヘル呼んだら君が来た",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "8+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.4
+        },
+        "Notes": {
+            "Easy": 467,
+            "Advanced": 752,
+            "Expert": 1343,
+            "Master": 1909
+        }
+    },
+    {
+        "Name": "チュルリラ・チュルリラ・ダッダッダ！",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.5
+        },
+        "Notes": {
+            "Easy": 499,
+            "Advanced": 748,
+            "Expert": 1109,
+            "Master": 2016
+        }
+    },
+    {
+        "Name": "だんだん早くなる",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 344,
+            "Advanced": 471,
+            "Expert": 926,
+            "Master": 1313
+        }
+    },
+    {
+        "Name": "ECHO",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 356,
+            "Advanced": 636,
+            "Expert": 1121,
+            "Master": 1346
+        }
+    },
+    {
+        "Name": "エイリアンエイリアン",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 392,
+            "Advanced": 672,
+            "Expert": 1215,
+            "Master": 1677
+        }
+    },
+    {
+        "Name": "地球最後の告白を",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.3
+        },
+        "Notes": {
+            "Easy": 344,
+            "Advanced": 602,
+            "Expert": 800,
+            "Master": 1254
+        }
+    },
+    {
+        "Name": "虎視眈々",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 413,
+            "Advanced": 542,
+            "Expert": 938,
+            "Master": 1541
+        }
+    },
+    {
+        "Name": "おこちゃま戦争",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7",
+            "Expert": "10",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.8
+        },
+        "Notes": {
+            "Easy": 516,
+            "Advanced": 767,
+            "Expert": 1077,
+            "Master": 1916
+        }
+    },
+    {
+        "Name": "桜ノ雨",
+        "Keywords": [],
+        "Level": {
+            "Easy": "1",
+            "Advanced": "4",
+            "Expert": "8",
+            "Master": "10+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 305,
+            "Advanced": 585,
+            "Expert": 735,
+            "Master": 1275
+        }
+    },
+    {
+        "Name": "いーあるふぁんくらぶ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 387,
+            "Advanced": 643,
+            "Expert": 898,
+            "Master": 1487
+        }
+    },
+    {
+        "Name": "人生リセットボタン",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7",
+            "Expert": "10",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.8
+        },
+        "Notes": {
+            "Easy": 557,
+            "Advanced": 849,
+            "Expert": 1161,
+            "Master": 2300
+        }
+    },
+    {
+        "Name": "神曲",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 403,
+            "Advanced": 756,
+            "Expert": 884,
+            "Master": 1556
+        }
+    },
+    {
+        "Name": "白い雪のプリンセスは",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 382,
+            "Advanced": 657,
+            "Expert": 1044,
+            "Master": 1718
+        }
+    },
+    {
+        "Name": "愛言葉",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "4",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 364,
+            "Advanced": 581,
+            "Expert": 869,
+            "Master": 1249
+        }
+    },
+    {
+        "Name": "鬼KYOKAN",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.8
+        },
+        "Notes": {
+            "Easy": 493,
+            "Advanced": 688,
+            "Expert": 1014,
+            "Master": 1661
+        }
+    },
+    {
+        "Name": "有頂天ビバーチェ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "6",
+            "Expert": "8+",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 321,
+            "Advanced": 621,
+            "Expert": 850,
+            "Master": 1364
+        }
+    },
+    {
+        "Name": "幸せになれる隠しコマンドがあるらしい",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "10",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 423,
+            "Advanced": 586,
+            "Expert": 935,
+            "Master": 2226
+        }
+    },
+    {
+        "Name": "インビジブル",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7",
+            "Expert": "10+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.2
+        },
+        "Notes": {
+            "Easy": 427,
+            "Advanced": 675,
+            "Expert": 1089,
+            "Master": 1834
+        }
+    },
+    {
+        "Name": "エンヴィキャットウォーク",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 292,
+            "Advanced": 661,
+            "Expert": 929,
+            "Master": 1550
+        }
+    },
+    {
+        "Name": "アカツキアライヴァル",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 283,
+            "Advanced": 591,
+            "Expert": 898,
+            "Master": 1312
+        }
+    },
+    {
+        "Name": "ラクガキスト",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7",
+            "Expert": "11",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.1,
+            "Master": 13.4
+        },
+        "Notes": {
+            "Easy": 496,
+            "Advanced": 818,
+            "Expert": 1318,
+            "Master": 2248
+        }
+    },
+    {
+        "Name": "リモコン",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 470,
+            "Advanced": 767,
+            "Expert": 1150,
+            "Master": 1811
+        }
+    },
+    {
+        "Name": "アウターサイエンス",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 381,
+            "Advanced": 623,
+            "Expert": 1139,
+            "Master": 1562
+        }
+    },
+    {
+        "Name": "シジョウノコエ VOCALO ver.",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.2
+        },
+        "Notes": {
+            "Easy": 373,
+            "Advanced": 687,
+            "Expert": 1135,
+            "Master": 1626
+        }
+    },
+    {
+        "Name": "ビバハピ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 268,
+            "Advanced": 566,
+            "Expert": 970,
+            "Master": 1561
+        }
+    },
+    {
+        "Name": "Tell Your World",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 427,
+            "Advanced": 754,
+            "Expert": 1370,
+            "Master": 1560
+        }
+    },
+    {
+        "Name": "からくりピエロ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 313,
+            "Advanced": 928,
+            "Expert": 1246,
+            "Master": 1679
+        }
+    },
+    {
+        "Name": "深海少女",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 343,
+            "Advanced": 616,
+            "Expert": 1041,
+            "Master": 1233
+        }
+    },
+    {
+        "Name": "ロミオとシンデレラ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 380,
+            "Advanced": 733,
+            "Expert": 1032,
+            "Master": 1600
+        }
+    },
+    {
+        "Name": "初音ミクの消失",
+        "Keywords": [],
+        "Level": {
+            "Easy": "5",
+            "Advanced": "8",
+            "Expert": "12",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 12,
+            "Master": 13.4
+        },
+        "Notes": {
+            "Easy": 418,
+            "Advanced": 710,
+            "Expert": 1052,
+            "Master": 1743
+        }
+    },
+    {
+        "Name": "みくみくにしてあげる♪【してやんよ】",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 232,
+            "Advanced": 460,
+            "Expert": 671,
+            "Master": 1139
+        }
+    },
+    {
+        "Name": "Hand in Hand",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 323,
+            "Advanced": 625,
+            "Expert": 917,
+            "Master": 1546
+        }
+    },
+    {
+        "Name": "放課後革命",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 510,
+            "Advanced": 823,
+            "Expert": 1274,
+            "Master": 1953
+        }
+    },
+    {
+        "Name": "楽園ファンファーレ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 404,
+            "Advanced": 826,
+            "Expert": 997,
+            "Master": 1384
+        }
+    },
+    {
+        "Name": "ウミユリ海底譚",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 294,
+            "Advanced": 531,
+            "Expert": 834,
+            "Master": 1194
+        }
+    },
+    {
+        "Name": "アスノヨゾラ哨戒班",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.4
+        },
+        "Notes": {
+            "Easy": 428,
+            "Advanced": 836,
+            "Expert": 1185,
+            "Master": 1631
+        }
+    },
+    {
+        "Name": "天樂",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 551,
+            "Advanced": 862,
+            "Expert": 1242,
+            "Master": 1916
+        }
+    },
+    {
+        "Name": "Crazy ∞ nighT",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "8+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.5
+        },
+        "Notes": {
+            "Easy": 372,
+            "Advanced": 769,
+            "Expert": 952,
+            "Master": 1793
+        }
+    },
+    {
+        "Name": "カミサマネジマキ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "11",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11,
+            "Master": 13
+        },
+        "Notes": {
+            "Easy": 417,
+            "Advanced": 746,
+            "Expert": 1290,
+            "Master": 1621
+        }
+    },
+    {
+        "Name": "チルドレンレコード",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 503,
+            "Advanced": 911,
+            "Expert": 1114,
+            "Master": 2136
+        }
+    },
+    {
+        "Name": "如月アテンション",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 385,
+            "Advanced": 717,
+            "Expert": 1165,
+            "Master": 1754
+        }
+    },
+    {
+        "Name": "夜咄ディセイブ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.6
+        },
+        "Notes": {
+            "Easy": 327,
+            "Advanced": 542,
+            "Expert": 970,
+            "Master": 1333
+        }
+    },
+    {
+        "Name": "恋愛裁判",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "4",
+            "Expert": "8+",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 290,
+            "Advanced": 564,
+            "Expert": 894,
+            "Master": 1302
+        }
+    },
+    {
+        "Name": "このふざけた素晴らしき世界は、僕の為にある",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 387,
+            "Advanced": 667,
+            "Expert": 1088,
+            "Master": 1657
+        }
+    },
+    {
+        "Name": "Mr. Wonderland",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10+",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.9
+        },
+        "Notes": {
+            "Easy": 419,
+            "Advanced": 719,
+            "Expert": 1046,
+            "Master": 1663
+        }
+    },
+    {
+        "Name": "星屑ユートピア",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 343,
+            "Advanced": 602,
+            "Expert": 1010,
+            "Master": 1319
+        }
+    },
+    {
+        "Name": "いろは唄",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 364,
+            "Advanced": 526,
+            "Expert": 1085,
+            "Master": 1414
+        }
+    },
+    {
+        "Name": "愛迷エレジー",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 417,
+            "Advanced": 746,
+            "Expert": 1186,
+            "Master": 1458
+        }
+    },
+    {
+        "Name": "ユクエシレズ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "10+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 309,
+            "Advanced": 618,
+            "Expert": 861,
+            "Master": 1124
+        }
+    },
+    {
+        "Name": "ぼくらの16bit戦争",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.8
+        },
+        "Notes": {
+            "Easy": 326,
+            "Advanced": 687,
+            "Expert": 939,
+            "Master": 1616
+        }
+    },
+    {
+        "Name": "すろぉもぉしょん",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 361,
+            "Advanced": 727,
+            "Expert": 899,
+            "Master": 1495
+        }
+    },
+    {
+        "Name": "裏表ラバーズ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 280,
+            "Advanced": 546,
+            "Expert": 828,
+            "Master": 1145
+        }
+    },
+    {
+        "Name": "ネトゲ廃人シュプレヒコール",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 481,
+            "Advanced": 726,
+            "Expert": 1084,
+            "Master": 1550
+        }
+    },
+    {
+        "Name": "脳漿炸裂ガール",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "10+",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 453,
+            "Advanced": 820,
+            "Expert": 1224,
+            "Master": 1718
+        }
+    },
+    {
+        "Name": "FREELY TOMORROW",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "4",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 304,
+            "Advanced": 594,
+            "Expert": 780,
+            "Master": 1206
+        }
+    },
+    {
+        "Name": "ギガンティックO.T.N",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.9
+        },
+        "Notes": {
+            "Easy": 429,
+            "Advanced": 673,
+            "Expert": 1064,
+            "Master": 1753
+        }
+    },
+    {
+        "Name": "シリョクケンサ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "7",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 345,
+            "Advanced": 622,
+            "Expert": 890,
+            "Master": 1231
+        }
+    },
+    {
+        "Name": "イカサマライフゲイム",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.2
+        },
+        "Notes": {
+            "Easy": 436,
+            "Advanced": 648,
+            "Expert": 1069,
+            "Master": 1698
+        }
+    },
+    {
+        "Name": "セツナトリップ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.4
+        },
+        "Notes": {
+            "Easy": 265,
+            "Advanced": 561,
+            "Expert": 796,
+            "Master": 1561
+        }
+    },
+    {
+        "Name": "六兆年と一夜物語",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.1
+        },
+        "Notes": {
+            "Easy": 340,
+            "Advanced": 520,
+            "Expert": 917,
+            "Master": 1191
+        }
+    },
+    {
+        "Name": "Sweet Devil",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "4",
+            "Expert": "8+",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 272,
+            "Advanced": 558,
+            "Expert": 978,
+            "Master": 1136
+        }
+    },
+    {
+        "Name": "天ノ弱",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 333,
+            "Advanced": 707,
+            "Expert": 778,
+            "Master": 1157
+        }
+    },
+    {
+        "Name": "ストリーミングハート",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 392,
+            "Advanced": 890,
+            "Expert": 1018,
+            "Master": 1408
+        }
+    },
+    {
+        "Name": "一触即発☆禅ガール",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 364,
+            "Advanced": 505,
+            "Expert": 902,
+            "Master": 1475
+        }
+    },
+    {
+        "Name": "ODDS&ENDS",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "10"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 408,
+            "Advanced": 907,
+            "Expert": 1268,
+            "Master": 1509
+        }
+    },
+    {
+        "Name": "千本桜",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 358,
+            "Advanced": 594,
+            "Expert": 1000,
+            "Master": 1367
+        }
+    },
+    {
+        "Name": "腐れ外道とチョコレゐト",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 398,
+            "Advanced": 666,
+            "Expert": 932,
+            "Master": 1578
+        }
+    },
+    {
+        "Name": "M.S.S.Planet",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 228,
+            "Advanced": 458,
+            "Expert": 934,
+            "Master": 1349
+        }
+    },
+    {
+        "Name": "タイガーランペイジ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 408,
+            "Advanced": 776,
+            "Expert": 1355,
+            "Master": 1365
+        }
+    },
+    {
+        "Name": "ロストワンの号哭",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 399,
+            "Advanced": 648,
+            "Expert": 874,
+            "Master": 1208
+        }
+    },
+    {
+        "Name": "華鳥風月",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "4",
+            "Expert": "8+",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 11.5
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 1205
+        }
+    },
+    {
+        "Name": "儚きもの人間",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.5
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 1702
+        }
+    },
+    {
+        "Name": "Calamity Fortune",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "8+",
+            "Expert": "11+",
+            "Master": "13+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.7,
+            "Master": 13.7
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 2328
+        }
+    },
+    {
+        "Name": "taboo tears you up",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.8
+        },
+        "Notes": {
+            "Easy": 437,
+            "Advanced": 741,
+            "Expert": 1166,
+            "Master": 1645
+        }
+    },
+    {
+        "Name": "キュアリアス光吉古牌　－祭－",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "10",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 407,
+            "Advanced": 726,
+            "Expert": 1137,
+            "Master": 1495
+        }
+    },
+    {
+        "Name": "Help me, ERINNNNNN!! -Cranky remix-",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 406,
+            "Advanced": 606,
+            "Expert": 961,
+            "Master": 1216
+        }
+    },
+    {
+        "Name": "仙酌絶唱のファンタジア",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 380,
+            "Advanced": 736,
+            "Expert": 1181,
+            "Master": 2016
+        }
+    },
+    {
+        "Name": "幽闇に目醒めしは",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "4",
+            "Expert": "8",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 258,
+            "Advanced": 507,
+            "Expert": 700,
+            "Master": 1111
+        }
+    },
+    {
+        "Name": "Starlight Vision",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 296,
+            "Advanced": 632,
+            "Expert": 1034,
+            "Master": 1522
+        }
+    },
+    {
+        "Name": "Club Ibuki in Break All",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 369,
+            "Advanced": 526,
+            "Expert": 770,
+            "Master": 1378
+        }
+    },
+    {
+        "Name": "Phantasm Brigade",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13
+        },
+        "Notes": {
+            "Easy": 384,
+            "Advanced": 734,
+            "Expert": 1100,
+            "Master": 1519
+        }
+    },
+    {
+        "Name": "永遠のメロディ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 409,
+            "Advanced": 621,
+            "Expert": 1003,
+            "Master": 1440
+        }
+    },
+    {
+        "Name": "泡沫、哀のまほろば",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 250,
+            "Advanced": 420,
+            "Expert": 702,
+            "Master": 1177
+        }
+    },
+    {
+        "Name": "愛き夜道 feat. ランコ、雨天決行",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12
+        },
+        "Notes": {
+            "Easy": 307,
+            "Advanced": 582,
+            "Expert": 928,
+            "Master": 1128
+        }
+    },
+    {
+        "Name": "Starlight Dance Floor",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 380,
+            "Advanced": 467,
+            "Expert": 861,
+            "Master": 1212
+        }
+    },
+    {
+        "Name": "Witches night",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "8+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 420,
+            "Advanced": 700,
+            "Expert": 1109,
+            "Master": 1866
+        }
+    },
+    {
+        "Name": "ってゐ！　～えいえんてゐVer～",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 330,
+            "Advanced": 617,
+            "Expert": 817,
+            "Master": 1407
+        }
+    },
+    {
+        "Name": "患部で止まってすぐ溶ける～狂気の優曇華院",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "11",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11,
+            "Master": 13.1
+        },
+        "Notes": {
+            "Easy": 447,
+            "Advanced": 700,
+            "Expert": 1021,
+            "Master": 1659
+        }
+    },
+    {
+        "Name": "No Routine",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 372,
+            "Advanced": 675,
+            "Expert": 1229,
+            "Master": 1715
+        }
+    },
+    {
+        "Name": "ひれ伏せ愚民どもっ！",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 379,
+            "Advanced": 720,
+            "Expert": 1319,
+            "Master": 1649
+        }
+    },
+    {
+        "Name": "エテルニタス・ルドロジー",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "10",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 425,
+            "Advanced": 844,
+            "Expert": 1331,
+            "Master": 1575
+        }
+    },
+    {
+        "Name": "Imperishable Night 2006 (2016 Refine)",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7+",
+            "Expert": "10+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.6
+        },
+        "Notes": {
+            "Easy": 329,
+            "Advanced": 665,
+            "Expert": 1041,
+            "Master": 2016
+        }
+    },
+    {
+        "Name": "月に叢雲華に風",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 272,
+            "Advanced": 581,
+            "Expert": 1104,
+            "Master": 1328
+        }
+    },
+    {
+        "Name": "幻想のサテライト",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "11",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11,
+            "Master": 13.2
+        },
+        "Notes": {
+            "Easy": 452,
+            "Advanced": 929,
+            "Expert": 1558,
+            "Master": 2103
+        }
+    },
+    {
+        "Name": "橙の幻想郷音頭",
+        "Keywords": [],
+        "Level": {
+            "Easy": "1",
+            "Advanced": "4",
+            "Expert": "8",
+            "Master": "10+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 183,
+            "Advanced": 352,
+            "Expert": 500,
+            "Master": 730
+        }
+    },
+    {
+        "Name": "東方妖々夢 ～the maximum moving about～",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 468,
+            "Advanced": 852,
+            "Expert": 1166,
+            "Master": 1500
+        }
+    },
+    {
+        "Name": "蒼空に舞え、墨染の桜",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 287,
+            "Advanced": 604,
+            "Expert": 1000,
+            "Master": 1384
+        }
+    },
+    {
+        "Name": "少女幻葬戦慄曲　～　Necro Fantasia",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 397,
+            "Advanced": 789,
+            "Expert": 1136,
+            "Master": 1597
+        }
+    },
+    {
+        "Name": "Jimang Shot",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 482,
+            "Advanced": 815,
+            "Expert": 1198,
+            "Master": 2015
+        }
+    },
+    {
+        "Name": "エピクロスの虹はもう見えない",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "4",
+            "Expert": "8",
+            "Master": "10"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 225,
+            "Advanced": 531,
+            "Expert": 607,
+            "Master": 1274
+        }
+    },
+    {
+        "Name": "Yet Another ”drizzly rain”",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 257,
+            "Advanced": 426,
+            "Expert": 806,
+            "Master": 1017
+        }
+    },
+    {
+        "Name": "四次元跳躍機関",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 338,
+            "Advanced": 507,
+            "Expert": 844,
+            "Master": 1353
+        }
+    },
+    {
+        "Name": "緋色のDance",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 383,
+            "Advanced": 667,
+            "Expert": 905,
+            "Master": 1419
+        }
+    },
+    {
+        "Name": "最終鬼畜妹・一部声",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "10",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13
+        },
+        "Notes": {
+            "Easy": 353,
+            "Advanced": 722,
+            "Expert": 1200,
+            "Master": 1733
+        }
+    },
+    {
+        "Name": "Bad Apple!! feat.nomico",
+        "Keywords": [],
+        "Level": {
+            "Easy": "1",
+            "Advanced": "4",
+            "Expert": "8",
+            "Master": "10+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 237,
+            "Advanced": 557,
+            "Expert": 717,
+            "Master": 1264
+        }
+    },
+    {
+        "Name": "ナイト・オブ・ナイツ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 301,
+            "Advanced": 495,
+            "Expert": 629,
+            "Master": 1148
+        }
+    },
+    {
+        "Name": "魔理沙は大変なものを盗んでいきました",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 306,
+            "Advanced": 617,
+            "Expert": 759,
+            "Master": 967
+        }
+    },
+    {
+        "Name": "Help me, ERINNNNNN!!",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "10+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 314,
+            "Advanced": 497,
+            "Expert": 790,
+            "Master": 1086
+        }
+    },
+    {
+        "Name": "sweet little sister",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 330,
+            "Advanced": 550,
+            "Expert": 921,
+            "Master": 1228
+        }
+    },
+    {
+        "Name": "チルノのパーフェクトさんすう教室",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 273,
+            "Advanced": 547,
+            "Expert": 738,
+            "Master": 1197
+        }
+    },
+    {
+        "Name": "Dreaming",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "4",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 239,
+            "Advanced": 570,
+            "Expert": 722,
+            "Master": 1208
+        }
+    },
+    {
+        "Name": "Unlimited Spark!",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 325,
+            "Advanced": 586,
+            "Expert": 876,
+            "Master": 1417
+        }
+    },
+    {
+        "Name": "FLOWER",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12
+        },
+        "Notes": {
+            "Easy": 294,
+            "Advanced": 611,
+            "Expert": 1050,
+            "Master": 1180
+        }
+    },
+    {
+        "Name": "ちくわパフェだよ☆CKP",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 309,
+            "Advanced": 460,
+            "Expert": 945,
+            "Master": 1090
+        }
+    },
+    {
+        "Name": "Elemental Creation",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "11",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.3,
+            "Master": 13.5
+        },
+        "Notes": {
+            "Easy": 415,
+            "Advanced": 675,
+            "Expert": 1187,
+            "Master": 1710
+        }
+    },
+    {
+        "Name": "アルストロメリア",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 301,
+            "Advanced": 552,
+            "Expert": 863,
+            "Master": 1220
+        }
+    },
+    {
+        "Name": "凛として咲く花の如く",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 307,
+            "Advanced": 573,
+            "Expert": 1012,
+            "Master": 1327
+        }
+    },
+    {
+        "Name": "Evans",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "10+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.4
+        },
+        "Notes": {
+            "Easy": 322,
+            "Advanced": 527,
+            "Expert": 962,
+            "Master": 1621
+        }
+    },
+    {
+        "Name": "Blue Noise",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "4",
+            "Expert": "9+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13
+        },
+        "Notes": {
+            "Easy": 363,
+            "Advanced": 569,
+            "Expert": 1044,
+            "Master": 1481
+        }
+    },
+    {
+        "Name": "JET",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 11
+        },
+        "Notes": {
+            "Easy": 371,
+            "Advanced": 613,
+            "Expert": 736,
+            "Master": 1458
+        }
+    },
+    {
+        "Name": "XL TECHNO",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "10+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 326,
+            "Advanced": 637,
+            "Expert": 873,
+            "Master": 1292
+        }
+    },
+    {
+        "Name": "PRIVATE SERVICE",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.6
+        },
+        "Notes": {
+            "Easy": 319,
+            "Advanced": 724,
+            "Expert": 840,
+            "Master": 1327
+        }
+    },
+    {
+        "Name": "FLOATED CALM",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "10",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 339,
+            "Advanced": 552,
+            "Expert": 1013,
+            "Master": 1641
+        }
+    },
+    {
+        "Name": "Finite",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "10+",
+            "Master": "13+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.8
+        },
+        "Notes": {
+            "Easy": 302,
+            "Advanced": 627,
+            "Expert": 1377,
+            "Master": 1377
+        }
+    },
+    {
+        "Name": "神威",
+        "Keywords": [],
+        "Level": {
+            "Easy": "5",
+            "Advanced": "8+",
+            "Expert": "12+",
+            "Master": "13+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 12.7,
+            "Master": 13.9
+        },
+        "Notes": {
+            "Easy": 645,
+            "Advanced": 1155,
+            "Expert": 1772,
+            "Master": 3390
+        }
+    },
+    {
+        "Name": "L9",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 357,
+            "Advanced": 504,
+            "Expert": 855,
+            "Master": 1103
+        }
+    },
+    {
+        "Name": "Altale",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 441,
+            "Advanced": 669,
+            "Expert": 1203,
+            "Master": 1647
+        }
+    },
+    {
+        "Name": "Aragami",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.5
+        },
+        "Notes": {
+            "Easy": 308,
+            "Advanced": 644,
+            "Expert": 853,
+            "Master": 1414
+        }
+    },
+    {
+        "Name": "B.B.K.K.B.K.K.",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "10",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 333,
+            "Advanced": 541,
+            "Expert": 1051,
+            "Master": 960
+        }
+    },
+    {
+        "Name": "The Formula",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 502,
+            "Advanced": 623,
+            "Expert": 975,
+            "Master": 1557
+        }
+    },
+    {
+        "Name": "HAELEQUIN (Original Remaster)",
+        "Keywords": [],
+        "Level": {
+            "Easy": "5",
+            "Advanced": "8",
+            "Expert": "11+",
+            "Master": "13+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.8,
+            "Master": 13.8
+        },
+        "Notes": {
+            "Easy": 438,
+            "Advanced": 789,
+            "Expert": 1328,
+            "Master": 2000
+        }
+    },
+    {
+        "Name": "Äventyr",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 419,
+            "Advanced": 664,
+            "Expert": 1085,
+            "Master": 1904
+        }
+    },
+    {
+        "Name": "Vallista",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "6",
+            "Expert": "10",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.5
+        },
+        "Notes": {
+            "Easy": 324,
+            "Advanced": 512,
+            "Expert": 1015,
+            "Master": 1462
+        }
+    },
+    {
+        "Name": "conflict",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "6",
+            "Expert": "10",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.2
+        },
+        "Notes": {
+            "Easy": 428,
+            "Advanced": 658,
+            "Expert": 1076,
+            "Master": 2087
+        }
+    },
+    {
+        "Name": "elegante",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "10",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 220,
+            "Advanced": 552,
+            "Expert": 858,
+            "Master": 1000
+        }
+    },
+    {
+        "Name": "Halcyon",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "10+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.3
+        },
+        "Notes": {
+            "Easy": 514,
+            "Advanced": 826,
+            "Expert": 1400,
+            "Master": 2070
+        }
+    },
+    {
+        "Name": "Jack-the-Ripper◆",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "8",
+            "Expert": "11+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.7,
+            "Master": 13.1
+        },
+        "Notes": {
+            "Easy": 468,
+            "Advanced": 686,
+            "Expert": 1229,
+            "Master": 2000
+        }
+    },
+    {
+        "Name": "DRAGONLADY",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "6",
+            "Expert": "11",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11,
+            "Master": 13.2
+        },
+        "Notes": {
+            "Easy": 221,
+            "Advanced": 376,
+            "Expert": 876,
+            "Master": 1274
+        }
+    },
+    {
+        "Name": "FREEDOM DiVE",
+        "Keywords": [],
+        "Level": {
+            "Easy": "5",
+            "Advanced": "8",
+            "Expert": "11+",
+            "Master": "13+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.9,
+            "Master": 13.7
+        },
+        "Notes": {
+            "Easy": 561,
+            "Advanced": 919,
+            "Expert": 1542,
+            "Master": 2222
+        }
+    },
+    {
+        "Name": "Lapis",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 283,
+            "Advanced": 513,
+            "Expert": 900,
+            "Master": 1410
+        }
+    },
+    {
+        "Name": "SAMBISTA",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "10",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 270,
+            "Advanced": 497,
+            "Expert": 847,
+            "Master": 1000
+        }
+    },
+    {
+        "Name": "Air",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "10",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.2
+        },
+        "Notes": {
+            "Easy": 393,
+            "Advanced": 767,
+            "Expert": 1279,
+            "Master": 1856
+        }
+    },
+    {
+        "Name": "DataErr0r",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "10",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13
+        },
+        "Notes": {
+            "Easy": 313,
+            "Advanced": 661,
+            "Expert": 1050,
+            "Master": 1712
+        }
+    },
+    {
+        "Name": "Say A Vengeance",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.6
+        },
+        "Notes": {
+            "Easy": 367,
+            "Advanced": 670,
+            "Expert": 1255,
+            "Master": 1534
+        }
+    },
+    {
+        "Name": "010",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 279,
+            "Advanced": 665,
+            "Expert": 1049,
+            "Master": 1785
+        }
+    },
+    {
+        "Name": "ERIS -Legend of Gaidelia-",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 411,
+            "Advanced": 766,
+            "Expert": 1241,
+            "Master": 1770
+        }
+    },
+    {
+        "Name": "Angel dust",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7",
+            "Expert": "11",
+            "Master": "13+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.4,
+            "Master": 13.7
+        },
+        "Notes": {
+            "Easy": 436,
+            "Advanced": 782,
+            "Expert": 1310,
+            "Master": 1925
+        }
+    },
+    {
+        "Name": "Dreadnought",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7+",
+            "Expert": "10+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.6
+        },
+        "Notes": {
+            "Easy": 386,
+            "Advanced": 999,
+            "Expert": 1476,
+            "Master": 2315
+        }
+    },
+    {
+        "Name": "STAGER",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "10",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.6
+        },
+        "Notes": {
+            "Easy": 378,
+            "Advanced": 582,
+            "Expert": 1057,
+            "Master": 1384
+        }
+    },
+    {
+        "Name": "Her Majesty",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 500,
+            "Advanced": 800,
+            "Expert": 1330,
+            "Master": 2314
+        }
+    },
+    {
+        "Name": "Sakura Fubuki",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 430,
+            "Advanced": 618,
+            "Expert": 1040,
+            "Master": 1535
+        }
+    },
+    {
+        "Name": "Kronos",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 450,
+            "Advanced": 714,
+            "Expert": 1076,
+            "Master": 1513
+        }
+    },
+    {
+        "Name": "JULIAN",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10+",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 324,
+            "Advanced": 554,
+            "Expert": 932,
+            "Master": 1482
+        }
+    },
+    {
+        "Name": "Strahv",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7+",
+            "Expert": "11",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11,
+            "Master": 13.3
+        },
+        "Notes": {
+            "Easy": 601,
+            "Advanced": 777,
+            "Expert": 1236,
+            "Master": 1556
+        }
+    },
+    {
+        "Name": "風仁雷仁",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.3
+        },
+        "Notes": {
+            "Easy": 382,
+            "Advanced": 666,
+            "Expert": 1150,
+            "Master": 1442
+        }
+    },
+    {
+        "Name": "★LittlE HearTs★",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "8",
+            "Expert": "11",
+            "Master": "13+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.4,
+            "Master": 13.7
+        },
+        "Notes": {
+            "Easy": 483,
+            "Advanced": 681,
+            "Expert": 1123,
+            "Master": 1907
+        }
+    },
+    {
+        "Name": "GOODTEK",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7",
+            "Expert": "10+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.3
+        },
+        "Notes": {
+            "Easy": 449,
+            "Advanced": 741,
+            "Expert": 1356,
+            "Master": 1822
+        }
+    },
+    {
+        "Name": "Name of oath",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "11",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11,
+            "Master": 13.5
+        },
+        "Notes": {
+            "Easy": 561,
+            "Advanced": 844,
+            "Expert": 1234,
+            "Master": 1798
+        }
+    },
+    {
+        "Name": "Bird Sprite",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 348,
+            "Advanced": 600,
+            "Expert": 1010,
+            "Master": 1493
+        }
+    },
+    {
+        "Name": "Dengeki Tube",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7+",
+            "Expert": "11",
+            "Master": "13+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.3,
+            "Master": 13.8
+        },
+        "Notes": {
+            "Easy": 369,
+            "Advanced": 853,
+            "Expert": 1531,
+            "Master": 1513
+        }
+    },
+    {
+        "Name": "Reach for the Stars",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 356,
+            "Advanced": 631,
+            "Expert": 1069,
+            "Master": 1431
+        }
+    },
+    {
+        "Name": "The Concept of Love",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 220,
+            "Advanced": 524,
+            "Expert": 916,
+            "Master": 1024
+        }
+    },
+    {
+        "Name": "All I Want",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "8",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 350,
+            "Advanced": 613,
+            "Expert": 790,
+            "Master": 1061
+        }
+    },
+    {
+        "Name": "Pursuing My True Self",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "10+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 380,
+            "Advanced": 880,
+            "Expert": 1103,
+            "Master": 1285
+        }
+    },
+    {
+        "Name": "Signs Of Love (“Never More” ver.)",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 430,
+            "Advanced": 644,
+            "Expert": 1166,
+            "Master": 1266
+        }
+    },
+    {
+        "Name": "Your Affection (Daisuke Asakura Remix)",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 305,
+            "Advanced": 644,
+            "Expert": 1015,
+            "Master": 1293
+        }
+    },
+    {
+        "Name": "Dance!",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "9",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 307,
+            "Advanced": 631,
+            "Expert": 820,
+            "Master": 1102
+        }
+    },
+    {
+        "Name": "檄!帝国華撃団",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "4",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 313,
+            "Advanced": 697,
+            "Expert": 1100,
+            "Master": 1592
+        }
+    },
+    {
+        "Name": "In The Blue Sky '01",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 384,
+            "Advanced": 726,
+            "Expert": 1026,
+            "Master": 1587
+        }
+    },
+    {
+        "Name": "Dreams Dreams:Kids Ver.",
+        "Keywords": [],
+        "Level": {
+            "Easy": "1",
+            "Advanced": "4",
+            "Expert": "7+",
+            "Master": "10"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 215,
+            "Advanced": 737,
+            "Expert": 1153,
+            "Master": 1271
+        }
+    },
+    {
+        "Name": "STAIRWAY TO GENERATION",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 266,
+            "Advanced": 605,
+            "Expert": 892,
+            "Master": 1338
+        }
+    },
+    {
+        "Name": "Through The Tower",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 218,
+            "Advanced": 398,
+            "Expert": 748,
+            "Master": 1106
+        }
+    },
+    {
+        "Name": "レッツゴー!陰陽師",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 330,
+            "Advanced": 713,
+            "Expert": 1082,
+            "Master": 1629
+        }
+    },
+    {
+        "Name": "Change Our MIRAI！",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 328,
+            "Advanced": 558,
+            "Expert": 948,
+            "Master": 1330
+        }
+    },
+    {
+        "Name": "無敵We are one!!",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.1
+        },
+        "Notes": {
+            "Easy": 495,
+            "Advanced": 797,
+            "Expert": 1275,
+            "Master": 1804
+        }
+    },
+    {
+        "Name": "ドキドキDREAM!!!",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.1
+        },
+        "Notes": {
+            "Easy": 459,
+            "Advanced": 953,
+            "Expert": 1613,
+            "Master": 1546
+        }
+    },
+    {
+        "Name": "Still",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.5
+        },
+        "Notes": {
+            "Easy": 487,
+            "Advanced": 817,
+            "Expert": 1369,
+            "Master": 2084
+        }
+    },
+    {
+        "Name": "brilliant better",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 391,
+            "Advanced": 697,
+            "Expert": 1157,
+            "Master": 1531
+        }
+    },
+    {
+        "Name": "フォルテシモBELL",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 289,
+            "Advanced": 521,
+            "Expert": 857,
+            "Master": 1140
+        }
+    },
+    {
+        "Name": "私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.5
+        },
+        "Notes": {
+            "Easy": 373,
+            "Advanced": 784,
+            "Expert": 1217,
+            "Master": 1546
+        }
+    },
+    {
+        "Name": "DETARAME ROCK&ROLL THEORY",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 443,
+            "Advanced": 674,
+            "Expert": 1000,
+            "Master": 1336
+        }
+    },
+    {
+        "Name": "ハート・ビート",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.1
+        },
+        "Notes": {
+            "Easy": 490,
+            "Advanced": 752,
+            "Expert": 1275,
+            "Master": 1425
+        }
+    },
+    {
+        "Name": "猛進ソリストライフ！",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.2
+        },
+        "Notes": {
+            "Easy": 425,
+            "Advanced": 820,
+            "Expert": 1083,
+            "Master": 1560
+        }
+    },
+    {
+        "Name": "My Dearest Song",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.2
+        },
+        "Notes": {
+            "Easy": 426,
+            "Advanced": 674,
+            "Expert": 1114,
+            "Master": 1769
+        }
+    },
+    {
+        "Name": "Bang Babang Bang!!!",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10+",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.8
+        },
+        "Notes": {
+            "Easy": 396,
+            "Advanced": 723,
+            "Expert": 1417,
+            "Master": 1894
+        }
+    },
+    {
+        "Name": "Tic Tac DREAMIN’",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 295,
+            "Advanced": 682,
+            "Expert": 1172,
+            "Master": 1526
+        }
+    },
+    {
+        "Name": "TRUST",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.4
+        },
+        "Notes": {
+            "Easy": 556,
+            "Advanced": 919,
+            "Expert": 1413,
+            "Master": 1829
+        }
+    },
+    {
+        "Name": "猫祭り",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.3
+        },
+        "Notes": {
+            "Easy": 420,
+            "Advanced": 564,
+            "Expert": 1247,
+            "Master": 1861
+        }
+    },
+    {
+        "Name": "SPICY SWINGY STYLE",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.3
+        },
+        "Notes": {
+            "Easy": 316,
+            "Advanced": 476,
+            "Expert": 780,
+            "Master": 1312
+        }
+    },
+    {
+        "Name": "Help me, あーりん！",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 541,
+            "Advanced": 777,
+            "Expert": 1243,
+            "Master": 1830
+        }
+    },
+    {
+        "Name": "なるとなぎのパーフェクトロックンロール教室",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10+",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.8
+        },
+        "Notes": {
+            "Easy": 522,
+            "Advanced": 902,
+            "Expert": 1882,
+            "Master": 1924
+        }
+    },
+    {
+        "Name": "あねぺったん",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.1
+        },
+        "Notes": {
+            "Easy": 521,
+            "Advanced": 708,
+            "Expert": 1187,
+            "Master": 1768
+        }
+    },
+    {
+        "Name": "ＧＯ！ＧＯ！ラブリズム♥ ～あーりん書類審査通過記念Ver.～",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.1
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 2434
+        }
+    },
+    {
+        "Name": "夢と夢～あの日のメロディ～",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "4",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 11.3
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 902,
+            "Master": 1334
+        }
+    },
+    {
+        "Name": "言ノ葉カルマ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 11.7
+        },
+        "Notes": {
+            "Easy": 325,
+            "Advanced": 645,
+            "Expert": 849,
+            "Master": 1363
+        }
+    },
+    {
+        "Name": "言ノ葉遊戯",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 11.6
+        },
+        "Notes": {
+            "Easy": 462,
+            "Advanced": 755,
+            "Expert": 1125,
+            "Master": 1528
+        }
+    },
+    {
+        "Name": "洗脳",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 11.5
+        },
+        "Notes": {
+            "Easy": 303,
+            "Advanced": 676,
+            "Expert": 980,
+            "Master": 1305
+        }
+    },
+    {
+        "Name": "空威張りビヘイビア",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.3
+        },
+        "Notes": {
+            "Easy": 464,
+            "Advanced": 707,
+            "Expert": 1104,
+            "Master": 1841
+        }
+    },
+    {
+        "Name": "天国と地獄 -言ノ葉リンネ-",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 11.8
+        },
+        "Notes": {
+            "Easy": 317,
+            "Advanced": 622,
+            "Expert": 846,
+            "Master": 1283
+        }
+    },
+    {
+        "Name": "悪戯",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.2
+        },
+        "Notes": {
+            "Easy": 309,
+            "Advanced": 525,
+            "Expert": 888,
+            "Master": 1369
+        }
+    },
+    {
+        "Name": "りばーぶ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "4",
+            "Expert": "8",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 11.2
+        },
+        "Notes": {
+            "Easy": 268,
+            "Advanced": 517,
+            "Expert": 877,
+            "Master": 1229
+        }
+    },
+    {
+        "Name": "Barbed Eye",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12
+        },
+        "Notes": {
+            "Easy": 352,
+            "Advanced": 617,
+            "Expert": 984,
+            "Master": 1777
+        }
+    },
+    {
+        "Name": "分からない",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "10+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.2
+        },
+        "Notes": {
+            "Easy": 417,
+            "Advanced": 828,
+            "Expert": 1000,
+            "Master": 1918
+        }
+    },
+    {
+        "Name": "Garakuta Doll Play",
+        "Keywords": [],
+        "Level": {
+            "Easy": "5",
+            "Advanced": "8+",
+            "Expert": "12",
+            "Master": "13+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 12.3,
+            "Master": 13.8
+        },
+        "Notes": {
+            "Easy": 378,
+            "Advanced": 708,
+            "Expert": 1414,
+            "Master": 1800
+        }
+    },
+    {
+        "Name": "Like the Wind [Reborn]",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "8",
+            "Expert": "11",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11,
+            "Master": 13.5
+        },
+        "Notes": {
+            "Easy": 394,
+            "Advanced": 708,
+            "Expert": 1241,
+            "Master": 2000
+        }
+    },
+    {
+        "Name": "AMAZING MIGHTYYYY!!!!",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "8+",
+            "Expert": "12",
+            "Master": "13+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 12,
+            "Master": 13.8
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 2525
+        }
+    },
+    {
+        "Name": "GEMINI -C-",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7",
+            "Expert": "11",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.2,
+            "Master": 13.1
+        },
+        "Notes": {
+            "Easy": 549,
+            "Advanced": 769,
+            "Expert": 1319,
+            "Master": 1587
+        }
+    },
+    {
+        "Name": "Contrapasso -inferno-",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "9+",
+            "Expert": "12",
+            "Master": "13+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 12.4,
+            "Master": 13.9
+        },
+        "Notes": {
+            "Easy": 414,
+            "Advanced": 789,
+            "Expert": 1582,
+            "Master": 2262
+        }
+    },
+    {
+        "Name": "Invitation",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "8+",
+            "Master": "10+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 400,
+            "Advanced": 537,
+            "Expert": 846,
+            "Master": 1001
+        }
+    },
+    {
+        "Name": "ＧＯ！ＧＯ！ラブリズム♥",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 427,
+            "Advanced": 685,
+            "Expert": 1067,
+            "Master": 1304
+        }
+    },
+    {
+        "Name": "Theme of SeelischTact",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 384,
+            "Advanced": 743,
+            "Expert": 1057,
+            "Master": 1238
+        }
+    },
+    {
+        "Name": "Infantoon Fantasy",
+        "Keywords": [],
+        "Level": {
+            "Easy": "5",
+            "Advanced": "7",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 590,
+            "Advanced": 672,
+            "Expert": 1276,
+            "Master": 1441
+        }
+    },
+    {
+        "Name": "Counselor",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 11.7
+        },
+        "Notes": {
+            "Easy": 302,
+            "Advanced": 599,
+            "Expert": 952,
+            "Master": 1259
+        }
+    },
+    {
+        "Name": "Guilty",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 418,
+            "Advanced": 829,
+            "Expert": 994,
+            "Master": 1366
+        }
+    },
+    {
+        "Name": "幾四音-Ixion-",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 418,
+            "Advanced": 869,
+            "Expert": 1244,
+            "Master": 1505
+        }
+    },
+    {
+        "Name": "Grab your sword",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "8",
+            "Master": "10"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 377,
+            "Advanced": 726,
+            "Expert": 1037,
+            "Master": 1315
+        }
+    },
+    {
+        "Name": "My First Phone",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "4",
+            "Expert": "10",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.8
+        },
+        "Notes": {
+            "Easy": 387,
+            "Advanced": 589,
+            "Expert": 1311,
+            "Master": 1106
+        }
+    },
+    {
+        "Name": "今ぞ♡崇め奉れ☆オマエらよ！！～姫の秘メタル渇望～",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.8
+        },
+        "Notes": {
+            "Easy": 484,
+            "Advanced": 655,
+            "Expert": 1052,
+            "Master": 1603
+        }
+    },
+    {
+        "Name": "Anemone",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 270,
+            "Advanced": 602,
+            "Expert": 967,
+            "Master": 976
+        }
+    },
+    {
+        "Name": "リリーシア",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 11
+        },
+        "Notes": {
+            "Easy": 332,
+            "Advanced": 715,
+            "Expert": 955,
+            "Master": 1349
+        }
+    },
+    {
+        "Name": "砂漠のハンティングガール♡",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 354,
+            "Advanced": 670,
+            "Expert": 1083,
+            "Master": 1444
+        }
+    },
+    {
+        "Name": "昵懇レファレンス",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 282,
+            "Advanced": 673,
+            "Expert": 796,
+            "Master": 1097
+        }
+    },
+    {
+        "Name": "Teriqma",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "10",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 302,
+            "Advanced": 596,
+            "Expert": 908,
+            "Master": 1442
+        }
+    },
+    {
+        "Name": "After the rain",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "10+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 233,
+            "Advanced": 525,
+            "Expert": 916,
+            "Master": 1146
+        }
+    },
+    {
+        "Name": "The ether",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "10",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12
+        },
+        "Notes": {
+            "Easy": 411,
+            "Advanced": 860,
+            "Expert": 1382,
+            "Master": 1987
+        }
+    },
+    {
+        "Name": "We Gonna Journey",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.1
+        },
+        "Notes": {
+            "Easy": 413,
+            "Advanced": 675,
+            "Expert": 1113,
+            "Master": 1616
+        }
+    },
+    {
+        "Name": "overcome",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "4",
+            "Expert": "8+",
+            "Master": "10+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 334,
+            "Advanced": 678,
+            "Expert": 948,
+            "Master": 1288
+        }
+    },
+    {
+        "Name": "Memories of Sun and Moon",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "6",
+            "Expert": "8",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 724,
+            "Advanced": 818,
+            "Expert": 1476,
+            "Master": 1435
+        }
+    },
+    {
+        "Name": "luna blu",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7+",
+            "Expert": "11+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.9,
+            "Master": 13.4
+        },
+        "Notes": {
+            "Easy": 348,
+            "Advanced": 755,
+            "Expert": 1345,
+            "Master": 1640
+        }
+    },
+    {
+        "Name": "閃鋼のブリューナク",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "9",
+            "Expert": "11+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.7,
+            "Master": 13.5
+        },
+        "Notes": {
+            "Easy": 279,
+            "Advanced": 845,
+            "Expert": 1380,
+            "Master": 1622
+        }
+    },
+    {
+        "Name": "Gate of Fate",
+        "Keywords": [],
+        "Level": {
+            "Easy": "6",
+            "Advanced": "9",
+            "Expert": "11+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.7,
+            "Master": 13.2
+        },
+        "Notes": {
+            "Easy": 464,
+            "Advanced": 759,
+            "Expert": 1350,
+            "Master": 1932
+        }
+    },
+    {
+        "Name": "こころここから",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "10"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 389,
+            "Advanced": 950,
+            "Expert": 1105,
+            "Master": 1319
+        }
+    },
+    {
+        "Name": "The wheel to the right",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "9",
+            "Expert": "11+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.9,
+            "Master": 13.4
+        },
+        "Notes": {
+            "Easy": 525,
+            "Advanced": 1081,
+            "Expert": 1867,
+            "Master": 2000
+        }
+    },
+    {
+        "Name": "Alma",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 302,
+            "Advanced": 559,
+            "Expert": 837,
+            "Master": 1423
+        }
+    },
+    {
+        "Name": "STAR",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 397,
+            "Advanced": 774,
+            "Expert": 1156,
+            "Master": 1821
+        }
+    },
+    {
+        "Name": "Tango Rouge",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7+",
+            "Expert": "10+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13
+        },
+        "Notes": {
+            "Easy": 392,
+            "Advanced": 761,
+            "Expert": 1339,
+            "Master": 1806
+        }
+    },
+    {
+        "Name": "Gustav Battle",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7",
+            "Expert": "11+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.8,
+            "Master": 13
+        },
+        "Notes": {
+            "Easy": 392,
+            "Advanced": 764,
+            "Expert": 1422,
+            "Master": 1953
+        }
+    },
+    {
+        "Name": "怒槌",
+        "Keywords": [],
+        "Level": {
+            "Easy": "6",
+            "Advanced": "9+",
+            "Expert": "12+",
+            "Master": "14"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 12.7,
+            "Master": 14
+        },
+        "Notes": {
+            "Easy": 700,
+            "Advanced": 1500,
+            "Expert": 2000,
+            "Master": 3000
+        }
+    },
+    {
+        "Name": "夕暮れワンルーム",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 446,
+            "Advanced": 825,
+            "Expert": 1071,
+            "Master": 1589
+        }
+    },
+    {
+        "Name": "乗り切れ受験ウォーズ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 272,
+            "Advanced": 537,
+            "Expert": 777,
+            "Master": 1202
+        }
+    },
+    {
+        "Name": "stella=steLLa",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 289,
+            "Advanced": 797,
+            "Expert": 1160,
+            "Master": 1620
+        }
+    },
+    {
+        "Name": "とーきょー全域★アキハバラ？",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "10",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 435,
+            "Advanced": 881,
+            "Expert": 1215,
+            "Master": 2222
+        }
+    },
+    {
+        "Name": "エンドマークに希望と涙を添えて",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7",
+            "Expert": "11+",
+            "Master": "13+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.7,
+            "Master": 13.7
+        },
+        "Notes": {
+            "Easy": 445,
+            "Advanced": 777,
+            "Expert": 1558,
+            "Master": 2277
+        }
+    },
+    {
+        "Name": "SNIPE WHOLE",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "6",
+            "Expert": "10+",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 474,
+            "Advanced": 626,
+            "Expert": 1280,
+            "Master": 1708
+        }
+    },
+    {
+        "Name": "MUSIC PЯAYER",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 465,
+            "Advanced": 774,
+            "Expert": 1235,
+            "Master": 1779
+        }
+    },
+    {
+        "Name": "Cyberozar",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7+",
+            "Expert": "11",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.1,
+            "Master": 13.2
+        },
+        "Notes": {
+            "Easy": 480,
+            "Advanced": 715,
+            "Expert": 1075,
+            "Master": 2241
+        }
+    },
+    {
+        "Name": "Genesis",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "10",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.5
+        },
+        "Notes": {
+            "Easy": 342,
+            "Advanced": 671,
+            "Expert": 1045,
+            "Master": 1393
+        }
+    },
+    {
+        "Name": "名も無い鳥",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 400,
+            "Advanced": 656,
+            "Expert": 1171,
+            "Master": 1511
+        }
+    },
+    {
+        "Name": "L'épisode",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7+",
+            "Expert": "11+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.7,
+            "Master": 13.5
+        },
+        "Notes": {
+            "Easy": 627,
+            "Advanced": 703,
+            "Expert": 1989,
+            "Master": 1372
+        }
+    },
+    {
+        "Name": "GOLDEN RULE",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7",
+            "Expert": "11",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11,
+            "Master": 13.6
+        },
+        "Notes": {
+            "Easy": 463,
+            "Advanced": 813,
+            "Expert": 1196,
+            "Master": 1730
+        }
+    },
+    {
+        "Name": "宛城、炎上！！",
+        "Keywords": [],
+        "Level": {
+            "Easy": "5",
+            "Advanced": "9",
+            "Expert": "12",
+            "Master": "13+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 12.2,
+            "Master": 13.8
+        },
+        "Notes": {
+            "Easy": 561,
+            "Advanced": 1140,
+            "Expert": 2323,
+            "Master": 3594
+        }
+    },
+    {
+        "Name": "その群青が愛しかったようだった",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 546,
+            "Advanced": 833,
+            "Expert": 1175,
+            "Master": 1643
+        }
+    },
+    {
+        "Name": "心象蜃気楼",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 436,
+            "Advanced": 796,
+            "Expert": 1403,
+            "Master": 1532
+        }
+    },
+    {
+        "Name": "ケモノガル",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.8
+        },
+        "Notes": {
+            "Easy": 530,
+            "Advanced": 949,
+            "Expert": 1193,
+            "Master": 2323
+        }
+    },
+    {
+        "Name": "後夜祭",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 436,
+            "Advanced": 777,
+            "Expert": 1248,
+            "Master": 1536
+        }
+    },
+    {
+        "Name": "Tuning Rangers",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 432,
+            "Advanced": 788,
+            "Expert": 1273,
+            "Master": 1775
+        }
+    },
+    {
+        "Name": "First Twinkle",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 433,
+            "Advanced": 753,
+            "Expert": 1145,
+            "Master": 1488
+        }
+    },
+    {
+        "Name": "明るい未来",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 524,
+            "Advanced": 972,
+            "Expert": 1265,
+            "Master": 1833
+        }
+    },
+    {
+        "Name": "Philosopher",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7",
+            "Expert": "11+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.8,
+            "Master": 13.5
+        },
+        "Notes": {
+            "Easy": 400,
+            "Advanced": 689,
+            "Expert": 1404,
+            "Master": 1866
+        }
+    },
+    {
+        "Name": "Schrecklicher Aufstand",
+        "Keywords": [],
+        "Level": {
+            "Easy": "5",
+            "Advanced": "9",
+            "Expert": "12",
+            "Master": "13+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 12.3,
+            "Master": 13.9
+        },
+        "Notes": {
+            "Easy": 609,
+            "Advanced": 989,
+            "Expert": 1785,
+            "Master": 2195
+        }
+    },
+    {
+        "Name": "ロボットプラネットユートピア",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.3
+        },
+        "Notes": {
+            "Easy": 395,
+            "Advanced": 693,
+            "Expert": 1279,
+            "Master": 1720
+        }
+    },
+    {
+        "Name": "Oshama Scramble! (Cranky Remix)",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7",
+            "Expert": "11",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.3,
+            "Master": 13
+        },
+        "Notes": {
+            "Easy": 486,
+            "Advanced": 804,
+            "Expert": 1291,
+            "Master": 1769
+        }
+    },
+    {
+        "Name": "Hyperion",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 453,
+            "Advanced": 700,
+            "Expert": 1081,
+            "Master": 1710
+        }
+    },
+    {
+        "Name": "Paqqin",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 468,
+            "Advanced": 709,
+            "Expert": 1444,
+            "Master": 1687
+        }
+    },
+    {
+        "Name": "紅華刑",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7",
+            "Expert": "12",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 12,
+            "Master": 13.4
+        },
+        "Notes": {
+            "Easy": 364,
+            "Advanced": 870,
+            "Expert": 1520,
+            "Master": 2437
+        }
+    },
+    {
+        "Name": "Tidal Wave",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7+",
+            "Expert": "10+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.5
+        },
+        "Notes": {
+            "Easy": 433,
+            "Advanced": 674,
+            "Expert": 1138,
+            "Master": 2297
+        }
+    },
+    {
+        "Name": "サウンドプレイヤー",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 354,
+            "Advanced": 681,
+            "Expert": 1242,
+            "Master": 1507
+        }
+    },
+    {
+        "Name": "D.E.A.D.L.Y.",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 372,
+            "Advanced": 698,
+            "Expert": 1014,
+            "Master": 1877
+        }
+    },
+    {
+        "Name": "ウソラセラ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.6
+        },
+        "Notes": {
+            "Easy": 479,
+            "Advanced": 819,
+            "Expert": 1461,
+            "Master": 2322
+        }
+    },
+    {
+        "Name": "BOKUTO",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7+",
+            "Expert": "10",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13
+        },
+        "Notes": {
+            "Easy": 459,
+            "Advanced": 986,
+            "Expert": 1421,
+            "Master": 2338
+        }
+    },
+    {
+        "Name": "玩具狂奏曲 -終焉-",
+        "Keywords": [],
+        "Level": {
+            "Easy": "5",
+            "Advanced": "9",
+            "Expert": "12+",
+            "Master": "14"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 12.7,
+            "Master": 14
+        },
+        "Notes": {
+            "Easy": 532,
+            "Advanced": 1119,
+            "Expert": 1625,
+            "Master": 2816
+        }
+    },
+    {
+        "Name": "RevolutionGame",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 392,
+            "Advanced": 633,
+            "Expert": 1083,
+            "Master": 1795
+        }
+    },
+    {
+        "Name": "最愛テトラグラマトン",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.6
+        },
+        "Notes": {
+            "Easy": 541,
+            "Advanced": 808,
+            "Expert": 1160,
+            "Master": 1915
+        }
+    },
+    {
+        "Name": "札付きのワル　～マイケルのうた～",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 457,
+            "Advanced": 797,
+            "Expert": 1298,
+            "Master": 2059
+        }
+    },
+    {
+        "Name": "We Gonna Party -Feline Groove Mix-",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7",
+            "Expert": "11",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.3,
+            "Master": 13.3
+        },
+        "Notes": {
+            "Easy": 473,
+            "Advanced": 770,
+            "Expert": 1528,
+            "Master": 2180
+        }
+    },
+    {
+        "Name": "ゲシュタルト！テスト期間！！",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 391,
+            "Advanced": 678,
+            "Expert": 1038,
+            "Master": 1640
+        }
+    },
+    {
+        "Name": "おまかせ！！トラブルメイ娘☆とれびちゃん",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.1
+        },
+        "Notes": {
+            "Easy": 562,
+            "Advanced": 958,
+            "Expert": 1490,
+            "Master": 2794
+        }
+    },
+    {
+        "Name": "願い星",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 383,
+            "Advanced": 622,
+            "Expert": 1317,
+            "Master": 1492
+        }
+    },
+    {
+        "Name": "オススメ☆♂♀☆でぃすとぴあ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7+",
+            "Expert": "10",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.5
+        },
+        "Notes": {
+            "Easy": 397,
+            "Advanced": 871,
+            "Expert": 1505,
+            "Master": 2600
+        }
+    },
+    {
+        "Name": "響",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12
+        },
+        "Notes": {
+            "Easy": 883,
+            "Advanced": 879,
+            "Expert": 1566,
+            "Master": 2500
+        }
+    },
+    {
+        "Name": "Warcry",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "10",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.1
+        },
+        "Notes": {
+            "Easy": 498,
+            "Advanced": 798,
+            "Expert": 1331,
+            "Master": 2285
+        }
+    },
+    {
+        "Name": "覚醒楽奏メタフィクション",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7+",
+            "Expert": "11",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.3
+        },
+        "Notes": {
+            "Easy": 495,
+            "Advanced": 816,
+            "Expert": 1652,
+            "Master": 2056
+        }
+    },
+    {
+        "Name": "ドライヴ・オン・ザ・レインボー",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "10+",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.7
+        },
+        "Notes": {
+            "Easy": 548,
+            "Advanced": 1127,
+            "Expert": 1647,
+            "Master": 2017
+        }
+    },
+    {
+        "Name": "Supersonic Generation",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7",
+            "Expert": "11",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 11.2,
+            "Master": 13.4
+        },
+        "Notes": {
+            "Easy": 372,
+            "Advanced": 584,
+            "Expert": 1392,
+            "Master": 1594
+        }
+    },
+    {
+        "Name": "Devastating Blaster",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "8",
+            "Expert": "12",
+            "Master": "13+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 12.2,
+            "Master": 13.9
+        },
+        "Notes": {
+            "Easy": 408,
+            "Advanced": 691,
+            "Expert": 1424,
+            "Master": 2247
+        }
+    },
+    {
+        "Name": "TiamaT:F minor",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "9",
+            "Expert": "12+",
+            "Master": "14"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 12.8,
+            "Master": 14
+        },
+        "Notes": {
+            "Easy": 543,
+            "Advanced": 1111,
+            "Expert": 2587,
+            "Master": 3175
+        }
+    },
+    {
+        "Name": "混沌を越えし我らが神聖なる調律主を讃えよ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "5",
+            "Advanced": "9+",
+            "Expert": "13",
+            "Master": "14"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 13,
+            "Master": 14.1
+        },
+        "Notes": {
+            "Easy": 554,
+            "Advanced": 1167,
+            "Expert": 2150,
+            "Master": 2800
+        }
+    },
+    {
+        "Name": "光線チューニング",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.3
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 1307,
+            "Master": 2048
+        }
+    },
+    {
+        "Name": "哀しみ集め",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12
+        },
+        "Notes": {
+            "Easy": 372,
+            "Advanced": 634,
+            "Expert": 1030,
+            "Master": 1541
+        }
+    },
+    {
+        "Name": "キラメケ→Shoot it Now!",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.9
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 1357,
+            "Master": 2563
+        }
+    },
+    {
+        "Name": "トリスメギストス",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "6",
+            "Expert": "10",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.2
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 1627
+        }
+    },
+    {
+        "Name": "PinqPiq",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "10",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.5
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 1720
+        }
+    },
+    {
+        "Name": "立川浄穢捕物帳",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 2001
+        }
+    },
+    {
+        "Name": "WE GOTTA SOUL",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "8+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 12.2
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 1561
+        }
+    },
+    {
+        "Name": "眠れぬ夜君を想フ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7+",
+            "Expert": "10",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.3
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 1770
+        }
+    },
+    {
+        "Name": "JIGOKU STATION CENTRAL GATE",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7+",
+            "Expert": "11",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 13.3
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": 2000
+        }
+    },
+    {
+        "Name": "Kattobi KEIKYU Rider",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "8",
+            "Expert": "12",
+            "Master": "13+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 12.5,
+            "Master": 13.8
+        },
+        "Notes": {
+            "Easy": 761,
+            "Advanced": 1154,
+            "Expert": 2303,
+            "Master": 3600
+        }
+    }
+]
