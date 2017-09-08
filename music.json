@@ -1716,6 +1716,116 @@
         }
     },
     {
+        "Name": "エレクトロサチュレイタ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 247,
+            "Advanced": 514,
+            "Expert": 723,
+            "Master": 1322
+        }
+    },
+    {
+        "Name": "Palette",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "8",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 606,
+            "Advanced": 938,
+            "Expert": 1388,
+            "Master": 2126
+        }
+    },
+    {
+        "Name": "パーフェクト生命",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "10",
+            "Master": "12+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 552,
+            "Advanced": 881,
+            "Expert": 1245,
+            "Master": 1972
+        }
+    },
+    {
+        "Name": "のぼれ！すすめ！高い塔",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 439,
+            "Advanced": 727,
+            "Expert": 1195,
+            "Master": 1974
+        }
+    },
+    {
+        "Name": "害虫",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "7",
+            "Expert": "10",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 592,
+            "Advanced": 851,
+            "Expert": 1295,
+            "Master": 2502
+        }
+    },
+    {
         "Name": "砂の惑星 feat. HATSUNE MIKU",
         "Keywords": [],
         "Level": {
@@ -6245,6 +6355,28 @@
             "Advanced": 828,
             "Expert": 1000,
             "Master": 1918
+        }
+    },
+    {
+        "Name": "相思創愛",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 426,
+            "Advanced": 785,
+            "Expert": 1253,
+            "Master": 1674
         }
     },
     {
