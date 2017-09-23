@@ -12,7 +12,7 @@
             "Easy": null,
             "Advanced": null,
             "Expert": null,
-            "Master": null
+            "Master": 11.7
         },
         "Notes": {
             "Easy": 486,
@@ -34,7 +34,7 @@
             "Easy": null,
             "Advanced": null,
             "Expert": null,
-            "Master": null
+            "Master": 12.3
         },
         "Notes": {
             "Easy": 657,
@@ -56,7 +56,7 @@
             "Easy": null,
             "Advanced": null,
             "Expert": null,
-            "Master": null
+            "Master": 11.8
         },
         "Notes": {
             "Easy": 257,
@@ -78,7 +78,7 @@
             "Easy": null,
             "Advanced": null,
             "Expert": null,
-            "Master": null
+            "Master": 12.5
         },
         "Notes": {
             "Easy": 491,
@@ -100,7 +100,7 @@
             "Easy": null,
             "Advanced": null,
             "Expert": null,
-            "Master": null
+            "Master": 12.6
         },
         "Notes": {
             "Easy": 503,
@@ -188,7 +188,7 @@
             "Easy": null,
             "Advanced": null,
             "Expert": null,
-            "Master": null
+            "Master": 11.6
         },
         "Notes": {
             "Easy": null,
@@ -628,7 +628,7 @@
             "Easy": null,
             "Advanced": null,
             "Expert": null,
-            "Master": null
+            "Master": 11.8
         },
         "Notes": {
             "Easy": 284,
@@ -8525,7 +8525,7 @@
         "Constant": {
             "Easy": null,
             "Advanced": null,
-            "Expert": null,
+            "Expert": 11.4,
             "Master": 13.3
         },
         "Notes": {
