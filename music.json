@@ -1,5 +1,115 @@
 [
     {
+        "Name": "SAKURAスキップ",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 486,
+            "Advanced": 703,
+            "Expert": 1200,
+            "Master": 1905
+        }
+    },
+    {
+        "Name": "Now Loading!!!!",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 657,
+            "Advanced": 897,
+            "Expert": 1415,
+            "Master": 2292
+        }
+    },
+    {
+        "Name": "Clover Heart's",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "8+",
+            "Master": "11+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 257,
+            "Advanced": 702,
+            "Expert": 968,
+            "Master": 1453
+        }
+    },
+    {
+        "Name": "ガチャガチャきゅ～と・ふぃぎゅ@メイト",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 491,
+            "Advanced": 896,
+            "Expert": 1177,
+            "Master": 2063
+        }
+    },
+    {
+        "Name": "Vampire",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "5",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 503,
+            "Advanced": 843,
+            "Expert": 1294,
+            "Master": 1935
+        }
+    },
+    {
         "Name": "前前前世",
         "Keywords": [],
         "Level": {
