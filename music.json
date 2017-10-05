@@ -8556,5 +8556,115 @@
             "Expert": 2303,
             "Master": 3600
         }
+    },
+    {
+        "Name": "Glorious Crown (tpz over-Over-OVERCUTE REMIX)",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "9",
+            "Expert": "12",
+            "Master": "13+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 617,
+            "Advanced": 1077,
+            "Expert": 1885,
+            "Master": 2700
+        }
+    },
+    {
+        "Name": "Wake up Dreamer",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "6",
+            "Expert": "9+",
+            "Master": "12"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 425,
+            "Advanced": 720,
+            "Expert": 1396,
+            "Master": 1853
+        }
+    },
+    {
+        "Name": "Twice up Scenery",
+        "Keywords": [],
+        "Level": {
+            "Easy": "2",
+            "Advanced": "5",
+            "Expert": "10",
+            "Master": "13"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": 615,
+            "Advanced": 844,
+            "Expert": 1213,
+            "Master": 2250
+        }
+    },
+    {
+        "Name": "World Vanquisher",
+        "Keywords": [],
+        "Level": {
+            "Easy": "4",
+            "Advanced": "9",
+            "Expert": "12+",
+            "Master": "14"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 2100,
+            "Master": 3000
+        }
+    },
+    {
+        "Name": "Iudicium",
+        "Keywords": [],
+        "Level": {
+            "Easy": "3",
+            "Advanced": "7",
+            "Expert": "11+",
+            "Master": "13+"
+        },
+        "Constant": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": null,
+            "Master": null
+        },
+        "Notes": {
+            "Easy": null,
+            "Advanced": null,
+            "Expert": 1372,
+            "Master": 2411
+        }
     }
 ]
